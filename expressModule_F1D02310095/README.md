@@ -12,17 +12,17 @@ Pada tugas ini akan digunakan express yang merupakan framework dari Node.js, dar
 - http://localhost:3000/profile/nim -> menampilkan detail profile berdasarkan nim.
 
 ## Hasil
-![Output Program](./screenshot/root.png)
+![Output Program](screenshot/root.png)
 Membuka localhost:3000 dan akan menampilkan NIM serta Nama.
 
-![Output Program](./screenshot/root-hitung.png)
+![Output Program](screenshot/root-hitung.png)
 Buka localhost:3000/hitung yang akan menampilkan hasil dari penjumlahan 90 dengan 5 menggunakan fungsi pada folder utils file math.js.
 
-![Output Program](./screenshot/root-hitungkali.png)
+![Output Program](screenshot/root-hitungkali.png)
 Buka localhost:3000/hitungkali yang akan menampilkan hasil dari perkalian 90 dengan 5 menggunakan fungsi pada folder utils file math.js.
 
-![Output Program](./screenshot/root-profileroot.png)
+![Output Program](screenshot/root-profileroot.png)
 Buka localhost:3000/profile yang akan menampilkan daftar profile (array JSON) yang berisi nim, nama, dan hoby.
 
-![Output Program](./screenshot/root-profileroot-nim.png)
+![Output Program](screenshot/root-profileroot-nim.png)
 Buka localhost:3000/profile/nim yang akan menampilkan 1 profile sesuai nim yang dicari pada URL.
